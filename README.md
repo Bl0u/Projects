@@ -19,3 +19,11 @@
   - tkinter.messagebox - Used to display message boxes.
   - tkinter.ttk - Provides access to Tk themed widget set.
   - tkinter.font - Used to manage fonts in tkinter applications.
+
+**My Contribution**
+  - Role: GUI Developer
+
+  - Responsibilities:
+    - Designed and implemented the graphical user interface using Python and Tkinter.
+    - Ensured the interface is user-friendly and effectively displays data analysis results.
+    - Collaborated with the data handling team to integrate backend functionalities.
